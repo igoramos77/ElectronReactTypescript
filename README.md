@@ -8,9 +8,10 @@ Use a package manager of your choice (npm, yarn, etc.) in order to install all d
 ```bash
 npm install
 ```
+or
 
 ```bash
-yarn install
+yarn
 ```
 
 ## Usage
