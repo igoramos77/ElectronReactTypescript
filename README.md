@@ -26,6 +26,15 @@ npm run dev:electron
 or
 
 ```bash
+yarn run dev:react
+```
+```bash
+yarn run dev:electron
+```
+
+or
+
+```bash
 npm run dev
 ```
 
